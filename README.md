@@ -69,5 +69,5 @@ Me chamo Danilo Malheiro e atualmente curso Ciência da Computação na Universi
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Malheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Malheiro&layout=compact&custom_title=Tecnologias&langs_count=9" height="190" alt="GitHub Stats" />
 </p>
